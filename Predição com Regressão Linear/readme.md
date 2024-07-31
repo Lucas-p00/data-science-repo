@@ -29,7 +29,7 @@ Quaisquer dúvidas sobre esse algoritmo em python, segue a [documentação](http
 
 ## Conclusão
 
-<img src="images/resultado.png" alt="Logo" width="500" height="">
+<img src="images/resultado.png" alt="Logo" width="600" height="">
 
 Como é a primeira versão do modelo e sem otimização de hiperparâmetros, o valor do coeficiente de determinação (R²) obtido é razoável, 0.59.
 
