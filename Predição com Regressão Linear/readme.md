@@ -12,7 +12,7 @@ O dataset é composto pelas as seguintes informações:
 
 Para resolver o problema, é preciso analisar o coeficiente de correlação entre as duas variáveis.
 
-<img src="images/df_correlacao.png" alt="Logo" width="" height="">
+<img src="images/df_correlacao.png" alt="Logo" width="450" height="">
 
 O coeficiente de correlação é uma medida estatística que indica a força e a direção da relação linear entre duas variáveis numéricas, variando entre -1 e 1, onde:
 - Coeficiente = 1 -> indica uma correlação linear perfeita positiva. Quando uma variável aumenta, a outra aumenta na mesma proporção.
