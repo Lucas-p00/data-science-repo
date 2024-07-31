@@ -30,7 +30,9 @@ Quaisquer dúvidas sobre a função, acesse a [documentação](https://www.stats
 
 ## Conclusão
 
-![DSA](images/resultado.png)
+
+
+<img src="images/resultado.png" alt="Logo" width="600" height="">
 
 Analisando o gráfico, é possível claramente que existe uma forte relação entre as duas variáveis. Entretanto, apenas a área dos imóveis não é suficiente para explicar a variação no valor do aluguel, pois o modelo obteve um coeficiente de determinação (R²) de apenas 0.34.
 

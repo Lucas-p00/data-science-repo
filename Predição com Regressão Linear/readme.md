@@ -12,7 +12,7 @@ O dataset é composto pelas as seguintes informações:
 
 Para resolver o problema, é preciso analisar o coeficiente de correlação entre as duas variáveis.
 
-<img src="images/df_correlacao.png" alt="Logo" width="450" height="">
+<img src="images/df_correlacao.png" alt="Logo" width="500" height="">
 
 O coeficiente de correlação é uma medida estatística que indica a força e a direção da relação linear entre duas variáveis numéricas, variando entre -1 e 1, onde:
 - Coeficiente = 1 -> indica uma correlação linear perfeita positiva. Quando uma variável aumenta, a outra aumenta na mesma proporção.
@@ -29,7 +29,7 @@ Quaisquer dúvidas sobre esse algoritmo em python, segue a [documentação](http
 
 ## Conclusão
 
-<img src="images/resultado.png" alt="Logo" width="400" height="">
+<img src="images/resultado.png" alt="Logo" width="500" height="">
 
 Como é a primeira versão do modelo e sem otimização de hiperparâmetros, o valor do coeficiente de determinação (R²) obtido é razoável, 0.59.
 
