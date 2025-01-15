@@ -8,7 +8,7 @@ Usando dados históricos é possível prever o salário de alguém com base no t
 
 Foi desenvolvida uma interface interativa com o uso do Streamlit para facilitar a visualização dos resultados.
 
-<img src="images/interface.png" alt="Logo" width="300" height="" align-center = "true">
+<img src="images/interface.png" alt="Logo" width="400" height="" align-center = "true">
 
 ## Sobre o dataset
 
