@@ -4,6 +4,12 @@
 
 Usando dados históricos é possível prever o salário de alguém com base no tempo dedicado aos estudos em horas por mês?
 
+## Interface interativa
+
+Foi desenvolvida uma interface interativa com o uso do Streamlit para facilitar a visualização dos resultados.
+
+<img src="images/interface.png" alt="Logo" width="300" height="" align-center = "true">
+
 ## Sobre o dataset
 
 O dataset é composto pelas as seguintes informações:
@@ -15,6 +21,7 @@ Para resolver o problema, é preciso analisar o coeficiente de correlação entr
 <img src="images/df_correlacao.png" alt="Logo" width="500" height="">
 
 O coeficiente de correlação é uma medida estatística que indica a força e a direção da relação linear entre duas variáveis numéricas, variando entre -1 e 1, onde:
+
 - Coeficiente = 1 -> indica uma correlação linear perfeita positiva. Quando uma variável aumenta, a outra aumenta na mesma proporção.
 - Coeficiente = -1 -> indica uma correlação linear perfeita negativa. Quando uma variável aumenta, a outra diminui na mesma proporção.
 - Coeficiente = 0 -> não há correlação linear entre as duas variáveis.
